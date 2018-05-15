@@ -14,4 +14,4 @@ ethereum-types = "0.3"
 keccak-hash = "0.1.1"
 
 [dev-dependencies]
-trie-standardmap = { path = "../trie-standardmap" }
+trie-standardmap = { git = "https://github.com/paritytech/trie-standardmap" }
